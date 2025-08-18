@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Neko~
+Nya~
 
 ---------------------------
 
@@ -10,7 +10,7 @@ Neko~
   </a>
   
   <p align="center">
-    <img src="https://profile-counter.glitch.me/Algorineko/count.svg" alt="Visitor Count">
+    <img src="https://count.getloli.com/get/@Algorineko?theme=miku" alt="Algorineko's profile views" />
   </p>
 
   <p align="center">
