@@ -11,14 +11,14 @@ Nya~
     <table width="100%" border="0" cellspacing="0" cellpadding="0">
       <tr>
         <!-- 第一行：第一张图片在左，第三张图片在右 -->
-        <td width="45%">
-          <div align="center">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Algorineko&layout=compact" width="100%" max-width="800">
-          </div>
-        </td>
         <td width="55%">
           <div align="center">
             <img src="https://github-readme-stats.vercel.app/api?username=Algorineko&show_icons=true&theme=radical" width="100%" max-width="800">
+          </div>
+        </td>
+        <td width="45%">
+          <div align="center">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Algorineko&layout=compact" width="100%" max-width="800">
           </div>
         </td>
       </tr>
