@@ -5,7 +5,10 @@ Nya~
 ---------------------------
 
 <div align="center">
-
+  
+  <p align="center">
+    <img src="https://count.getloli.com/get/@Algorineko?theme=miku" alt="Algorineko's profile views" />
+  </p>
 
   <p align="center">
     <table width="100%" border="0" cellspacing="0" cellpadding="0">
@@ -33,11 +36,6 @@ Nya~
     </table>
   </p>
   
-  <p align="center">
-    <img src="https://count.getloli.com/get/@Algorineko?theme=miku" alt="Algorineko's profile views" />
-  </p>
-
-
 
 </div>
 
