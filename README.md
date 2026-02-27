@@ -17,12 +17,12 @@ Nya~
         <td width="55%">
           <div align="center">
             <!-- <img src="https://github-readme-stats.vercel.app/api?username=Algorineko&show_icons=true&theme=radical" width="100%" max-width="800"> -->
-            <img src="https://github-readme-stats.vercel.app/api?username=Algorineko&show_icons=true" width="100%" max-width="800">
+            <!-- <img src="https://github-readme-stats.vercel.app/api?username=Algorineko&show_icons=true" width="100%" max-width="800"> -->
           </div>
         </td>
         <td width="45%">
           <div align="center">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Algorineko&layout=compact" width="100%" max-width="800">
+            <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Algorineko&layout=compact" width="100%" max-width="800"> -->
           </div>
         </td>
       </tr>
