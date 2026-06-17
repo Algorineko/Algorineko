@@ -18,6 +18,7 @@ Nya~
           <div align="center">
             <!-- <img src="https://github-readme-stats.vercel.app/api?username=Algorineko&show_icons=true&theme=radical" width="100%" max-width="800"> -->
             <!-- <img src="https://github-readme-stats.vercel.app/api?username=Algorineko&show_icons=true" width="100%" max-width="800"> -->
+            <!-- <theme=radical> -->
             <img height='153px' src="https://beautiful-github-homepage.vercel.app/api?username=Algorineko&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" />
           </div>
         </td>
