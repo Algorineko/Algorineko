@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Nya~
+Nya~ My Osananajimi is [Yao_Jun_S](https://github.com/Yaaros) !
 
 ---------------------------
 
